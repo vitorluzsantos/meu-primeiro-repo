@@ -6,21 +6,16 @@ Alterando o repositorio LOCALMENTE :)
 
 # comandos
     
-<h3>login</h3>
-```
+    <!-- login -->
     git config --global user.name "nome-exemplo"
     git config --global user.email "email@exemplo.com"
-```
-<h3>verificar status do repositorio</h3>
-```
+
+    <!-- verificar status do repositorio -->
     git status 
-```
-<h3>codigo do commit</h3>
-```
+
+    <!-- codigo do commit -->
     git commit -m"mensagem exemplo"
-```
-<h3>subir codigo</h3>
-```
+
+    <!-- subir codigo -->
     git push
-```
 
