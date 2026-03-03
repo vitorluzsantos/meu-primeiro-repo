@@ -18,4 +18,8 @@ Alterando o repositorio LOCALMENTE :)
 
     <!-- subir codigo -->
     git push
+    
+    <!-- deslogar -->
+    git config --global --unset user.name "nomeDoUsuario"
+    git config --global --unset user.email "emailDoUsuario"
 
