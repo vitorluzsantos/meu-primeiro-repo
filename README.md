@@ -1,4 +1,5 @@
 # meu-primeiro-repo
 Meu primeiro repositório na aula de Pesquisa e Inovação
 
-Alterando o repositorio remotamente :)
+Alterando o repositorio REMOTAMENTE :)
+Alterando o repositorio LOCALMENTE :)
